@@ -23,7 +23,7 @@ import Table from './components/leave/Table';
 import Detail from './components/leave/Detail';
 import Attendence from './components/attendence/Attendence';
 import AttendenceReport from './components/attendence/AttendenceReport';
-import Unauthorized from './pages/UnAuthorized';
+import Unauthorized from './pages/Unauthorized';
 
 
 
